@@ -45,8 +45,8 @@ Dynamic User Interactions: Managed application state for real-time user interact
 
 # WebRTC:
 Web Real-Time Communication (WebRTC) is a technology that enables real-time communication between browsers.
-Learn more about how WebRTC powers VidConnect by exploring the WebRTC Documentation.
+Learn more about how WebRTC powers VidConnect by exploring the [WebRTC Documentation](https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API)
 
 # Socket.IO:
 Socket.IO is a real-time communication library that enables bidirectional communication between clients and servers. 
-Understand how Socket.IO enhances VidConnect's real-time capabilities by referring to the Socket.IO Documentation.
+Understand how Socket.IO enhances VidConnect's real-time capabilities by referring to the [Socket.IO Documentation](https://socket.io/docs/v3)
