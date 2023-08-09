@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+![React_logo_wordmark](https://github.com/Akkivarma07/VidConnect/assets/124379624/a29d4305-321f-44c4-ad49-4622cceef008)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
