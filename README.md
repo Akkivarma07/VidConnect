@@ -1,6 +1,9 @@
 
 # VidConnect: Real-Time Video Chat App with React, WebRTC, and Socket.IO
 
+![logo_200x200 (1)](https://github.com/Akkivarma07/VidConnect/assets/124379624/63dc4ce3-2155-4517-85f2-70651e51c6ac)
+
+
 Welcome to the VidConnect repository, a real-time video chat application built using React.js, WebRTC, and Socket.IO.
 Engage in seamless video calls directly from your web browser with peers. Explore this repository to understand the implementation and enhance your understanding of WebRTC, Socket.IO, and React.js.
 
